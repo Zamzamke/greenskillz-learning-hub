@@ -17,6 +17,7 @@ Despite growing interest in sustainability, climate education remains **inaccess
 ## ✅ Our Solution
 
 GreenSkillz provides a complete green learning ecosystem:
+App deployment - [https://greenskillz-learning-hub.lovable.app/]
 
 - 📚 **Microlearning Modules** – Quick, targeted lessons on renewable energy, climate policy, and more.
 - 🤖 **AI-Powered Guidance** – Adaptive learning paths, personalized quizzes, and smart mentor feedback.
