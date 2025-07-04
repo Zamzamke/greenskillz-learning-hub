@@ -1,73 +1,71 @@
-# Welcome to your Lovable project
+# 🌿 GreenSkillz – Climate Action Learning Hub
 
-## Project info
+## 🔍 Overview
 
-**URL**: https://lovable.dev/projects/416e4b0d-8de1-448c-b9f1-ccdce95c6861
+**GreenSkillz** is an AI-powered learning hub designed to equip users with practical, bite-sized skills in climate action, sustainability, and the green economy. The platform blends microlearning, gamification, and real-world job opportunities — empowering users to *learn green, act green, and earn green*.
 
-## How can I edit this code?
+Built for the **Vibe Coding Hackathon 2025**, GreenSkillz focuses on building a **monetizable**, **low-code**, and **impact-driven** solution using cutting-edge tools like **Supabase**, **Lovable.dev**, and **AI APIs**.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## ❗ Problem Statement
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/416e4b0d-8de1-448c-b9f1-ccdce95c6861) and start prompting.
+Despite growing interest in sustainability, climate education remains **inaccessible**, **overwhelming**, or **theoretical** for most learners — especially in under-resourced communities. Traditional platforms lack interactivity, personalization, and connections to real-world green jobs.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## ✅ Our Solution
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+GreenSkillz provides a complete green learning ecosystem:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- 📚 **Microlearning Modules** – Quick, targeted lessons on renewable energy, climate policy, and more.
+- 🤖 **AI-Powered Guidance** – Adaptive learning paths, personalized quizzes, and smart mentor feedback.
+- 🎮 **Gamified Experience** – XP points, eco-badges, and leaderboards to motivate users.
+- 🛍 **EcoShop** – Redeem XP for eco-friendly rewards.
+- 💼 **Green Jobs Matchmaking** – Connect learners to internships and employment opportunities in the green economy.
+- 📜 **Certifications** – Unlock proof of learning for career advancement.
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🛠 Tech Stack
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+| Layer              | Technology                |
+|-------------------|---------------------------|
+| Frontend          | [Lovable.dev](https://lovable.dev) + MGX for design |
+| Backend           | [Supabase](https://supabase.com) (Auth, DB, Realtime) |
+| AI Integration    | Claude/GPT API for quizzes, summaries, and content |
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🎨 UI/UX Design Highlights
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+- Clean, modern, mobile-first interface
+- Earth tones, eco-friendly vibe (greens, browns, soft neutrals)
+- Intuitive user flow from onboarding → learning → rewards → jobs
+- Iconography: leaves, solar panels, water drops, earth badges
+- Accessible and responsive across all devices
+
+---
+
+## 🧪 Key Features
+
+- ✅ Personalized onboarding and course recommendations
+- ✅ Bite-sized learning with AI-generated feedback
+- ✅ Earn XP and unlock eco-badges
+- ✅ Real-time leaderboard
+- ✅ EcoShop to redeem XP
+- ✅ Downloadable certifications
+- ✅ Job listings filtered by skills, location, and availability
+
+---
+
+## 🚀 How to Run Locally
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Zamzamke/greenskillz.git
+cd greenskillz
+
+npm install
+
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/416e4b0d-8de1-448c-b9f1-ccdce95c6861) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
